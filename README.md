@@ -3,7 +3,7 @@
 * Justin Weible
 * Jonathan Bragg
 
-![image](/images/microsofts-logo-gets-a-makeover.jpg)
+![image](images/microsofts-logo-gets-a-makeover.jpg)
 
 ## Business Problem
 Microsoft wants to create original video content and are going to create a movie studio.
@@ -16,17 +16,17 @@ They are looking for recommendations about what types of films are doing well at
 
 ## Analysis
 ### From 2010 to 2018, movie studios favored the genres of Drama, Action, Comedy, and Adventure when making movies.
-![image](/images/releases_genres.png)
+![image](images/releases_genres.png)
 
 ### The Standard Score for the popularity of each genre based on the number of votes received on IMDB for their ratings system shows that movie studios were correct to release Drama, Action, Comedy, and Adventure movies. Those genres are clearly the most popular.
-![image](/images/Genre_popularity.png)
+![image](images/Genre_popularity.png)
 
 ### The revenue of popular genres also seems to trend with how popular the genre happens to be.
-![image](/images/Revenues_genres.png)
-![image](/images/Popularity_genres_year.png)
+![image](images/Revenues_genres.png)
+![image](images/Popularity_genres_year.png)
 
 ### There is a positive correlation between how much money is spent on the production budget of a movie and how much revenue is generated. However, it's not a guarantee that high production costs will guarantee high revenues.
-![image](/images/Budget_revenue.png)
+![image](images/Budget_revenue.png)
 
 ## Next Steps:
 ### -The datasets that were used only cover the period from 2010-2018. More recent data from 2019-2021 would be helpful to determine up-to-date trends.
